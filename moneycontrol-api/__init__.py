@@ -1,4 +1,3 @@
-
 from .stock_data import fetch_historical_data
 from .index_data import fetch_index_data
 

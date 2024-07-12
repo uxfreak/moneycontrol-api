@@ -1,4 +1,4 @@
-
+import requests
 from .utils import parse_curl, convert_date_to_timestamp
 
 templated_curl_command_stock = """

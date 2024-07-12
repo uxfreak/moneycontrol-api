@@ -1,4 +1,4 @@
-
+import requests
 from .utils import parse_curl
 
 templated_curl_command_index = """
